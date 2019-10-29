@@ -92,4 +92,5 @@ server=function(input,  # list of data elements coming from UI
 }
 
 # Create and launch the app
-shinyApp(ui=ui,server=server)
+design.app=shinyApp(ui=ui,server=server)
+runApp(design.app)
