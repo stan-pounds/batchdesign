@@ -5,3 +5,5 @@ This R code file defines and launches a shinyR application to assist with the de
 to compare different treatments (factor of primary scientific interest) but require data to be obtained in
 batches that are processed at different times (a technical nuisance factor).  It generates a table to
 randomly assign samples (or subjects) to treatments and batches.
+
+To run the app, type source("https://raw.githubusercontent.com/stan-pounds/batchdesign/master/batch-design-app-2109-12-02.R") in R.
