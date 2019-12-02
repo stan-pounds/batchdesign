@@ -6,4 +6,4 @@ to compare different treatments (factor of primary scientific interest) but requ
 batches that are processed at different times (a technical nuisance factor).  It generates a table to
 randomly assign samples (or subjects) to treatments and batches.
 
-To run the app, type source("https://https://raw.githubusercontent.com/stan-pounds/batchdesign/master/batch-design-app-2019-12-02.R") in R.
+To run the app, type source("https://raw.githubusercontent.com/stan-pounds/batchdesign/master/batch-design-app-2019-12-02.R") in R.
